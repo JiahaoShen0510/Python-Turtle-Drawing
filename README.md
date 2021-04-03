@@ -1,4 +1,4 @@
-Aplly the Python Turtle to create four drawing projects.
+Apply the Python Turtle to create four drawing projects.
 
 Continuous Polygon: Draw the 10 layers of polygons that the next one fully builts on and covers the previous one. Each polygon is generated with randomized colors. 
 
